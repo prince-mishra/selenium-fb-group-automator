@@ -22,7 +22,7 @@ pkginfo==1.5.0.1
 prompt-toolkit==1.0.15
 ptyprocess==0.6.0
 pycparser==2.20
-Pygments==2.5.2
+Pygments==2.7.4
 pyOpenSSL==19.1.0
 PySocks==1.7.1
 readme-renderer==24.0
